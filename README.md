@@ -6,7 +6,7 @@ content formats, and what makes a post go viral.
 
 ## Tableau Dashboard
 🔗 **Live on Tableau Public:**
-https://public.tableau.com/views/Social_Media_Traffic_Analysis_2025/Dashboard1
+https://public.tableau.com/app/profile/nwankwo.chibuzo.joseph/viz/SocialMediaTrafficAnalysis2025/Dashboard1
 
 ## Dataset
 - File: `social_media_performance.csv` (10,000 rows, 15 columns)
